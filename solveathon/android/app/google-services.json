@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384221703398",
+    "project_id": "solveathon-2210b",
+    "storage_bucket": "solveathon-2210b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384221703398:android:2bae18111cd20b1a955f27",
+        "android_client_info": {
+          "package_name": "com.example.solveathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE7icxNSMRwmQ_kr9s5Aiui8uY4IRRxyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
